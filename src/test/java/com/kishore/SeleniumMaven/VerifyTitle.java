@@ -16,6 +16,7 @@ public class VerifyTitle {
 		driver.get("http://www.gmail.com");
 		driver.manage().window().maximize();
 		Assert.assertTrue(driver.getTitle().contains("Gmail"));
+		System.out.println("testing");
 		//driver.close();
 		driver.quit();
 		
