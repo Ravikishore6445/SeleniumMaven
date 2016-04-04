@@ -20,6 +20,8 @@ public class VerifyTitle {
 		//driver.close();
 		driver.quit();
 		
+		// THis is example for Sekenium integration with maven and Jenkins
+		
 		
 	}
 

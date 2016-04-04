@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="SPBDQA6" name="com.kishore.SeleniumMaven.VerifyTitle" tests="1" failures="0" timestamp="23 Mar 2016 12:31:11 GMT" time="27.988" errors="0">
-  <testcase name="test123" time="27.982" classname="com.kishore.SeleniumMaven.VerifyTitle"/>
+<testsuite hostname="SPBDQA6" name="com.kishore.SeleniumMaven.VerifyTitle" tests="1" failures="0" timestamp="4 Apr 2016 12:31:16 GMT" time="37.71" errors="0">
+  <testcase name="test123" time="37.704" classname="com.kishore.SeleniumMaven.VerifyTitle"/>
 </testsuite>

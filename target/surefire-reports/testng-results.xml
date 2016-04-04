@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="suite1" duration-ms="27988" started-at="2016-03-23T18:00:43Z" finished-at="2016-03-23T18:01:11Z">
+  <suite name="suite1" duration-ms="37710" started-at="2016-04-04T18:00:38Z" finished-at="2016-04-04T18:01:16Z">
     <groups>
     </groups>
-    <test name="packagetest" duration-ms="27988" started-at="2016-03-23T18:00:43Z" finished-at="2016-03-23T18:01:11Z">
+    <test name="packagetest" duration-ms="37710" started-at="2016-04-04T18:00:38Z" finished-at="2016-04-04T18:01:16Z">
       <class name="com.kishore.SeleniumMaven.VerifyTitle">
-        <test-method status="PASS" signature="test123()" name="test123" duration-ms="27982" started-at="2016-03-23T18:00:43Z" finished-at="2016-03-23T18:01:11Z">
+        <test-method status="PASS" signature="test123()" name="test123" duration-ms="37704" started-at="2016-04-04T18:00:38Z" finished-at="2016-04-04T18:01:16Z">
         </test-method>
       </class>
     </test>
